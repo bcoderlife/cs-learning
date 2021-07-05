@@ -67,25 +67,25 @@
 由传统的：
 
 ^  
-| 产 研 测 数 运  
-| 品 发 试 据 维  
-| 团 团 团 团 团  
-| 队 队 队 队 队  
+| &ensp; 产 &ensp;&ensp; 研 &ensp;&ensp; 测 &ensp;&ensp; 数 &ensp;&ensp; 运  
+| &ensp; 品 &ensp;&ensp; 发 &ensp;&ensp; 试 &ensp;&ensp; 据 &ensp;&ensp; 维  
+| &ensp; 团 &ensp;&ensp; 团 &ensp;&ensp; 团 &ensp;&ensp; 团 &ensp;&ensp; 团  
+| &ensp; 队 &ensp;&ensp; 队 &ensp;&ensp; 队 &ensp;&ensp; 队 &ensp;&ensp; 队  
 |_______________>  
- 产  品  A ...  
- 产  品  B ...  
- 产  品  C ...  
+ 产 &ensp;&ensp; 品 &ensp;&ensp; A ...  
+ 产 &ensp;&ensp; 品 &ensp;&ensp; B ...  
+ 产 &ensp;&ensp; 品 &ensp;&ensp; C ...  
 
 到微服务的：
 
 ^  
-| 产品团队  产品团队  产品团队    平台  
-| 研发团队  研发团队  研发团队    支撑  
-| 测试团队  测试团队  测试团队    团队  
-| 数据团队  数据团队  数据团队    ...  
-| 运维团队  运维团队  运维团队    ...  
+| &ensp; 产品团队 &ensp;&ensp; 产品团队 &ensp;&ensp; 产品团队 &ensp;&ensp; 平台  
+| &ensp; 研发团队 &ensp;&ensp; 研发团队 &ensp;&ensp; 研发团队 &ensp;&ensp; 支撑  
+| &ensp; 测试团队 &ensp;&ensp; 测试团队 &ensp;&ensp; 测试团队 &ensp;&ensp; 团队  
+| &ensp; 数据团队 &ensp;&ensp; 数据团队 &ensp;&ensp; 数据团队 &ensp;&ensp; ...  
+| &ensp; 运维团队 &ensp;&ensp; 运维团队 &ensp;&ensp; 运维团队 &ensp;&ensp; ...  
 |______________________________________>  
-  产品A      产品B     产品C  
+  产品A  &ensp;&ensp;  产品B &ensp;&ensp;  产品C  
 
 ## 微服务技术架构
 
